@@ -1,2 +1,3 @@
-let x = 10;
-let x = 20;
+"use strict"
+const x = 10;
+ x = 20;
